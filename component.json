@@ -1,0 +1,16 @@
+{
+  "name": "byte-length",
+  "repo": "chemzqm/byte-length",
+  "description": "simple replacement of Buffer.byteLength for browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
